@@ -1,0 +1,28 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://pdfzone.cloud/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
+
+# Disallow admin or sensitive areas (if any in future)
+# Disallow: /admin/
+# Disallow: /api/
+
+# Allow all PDF tool pages
+Allow: /merge-pdf
+Allow: /compress-pdf
+Allow: /pdf-to-jpg
+Allow: /word-to-pdf
+Allow: /excel-to-pdf
+Allow: /powerpoint-to-pdf
+Allow: /pdf-to-word
+Allow: /pdf-to-powerpoint
+Allow: /txt-to-pdf
+Allow: /epub-to-pdf
+Allow: /jpg-to-pdf
+Allow: /png-to-pdf
+Allow: /protect-pdf
+Allow: /unlock-pdf

@@ -1,6 +1,7 @@
 'use client'
 
 import React, { useState, useRef, useEffect } from 'react'
+import Link from 'next/link'
 import { Upload, File, Trash2, Download, Settings, CheckCircle, Loader2, ChevronDown, ImageIcon, FileText } from 'lucide-react'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'

@@ -1,6 +1,7 @@
 'use client'
 
 import React, { useState, useRef } from 'react'
+import Link from 'next/link'
 import { Upload, File, Trash2, Download, Settings, ArrowUp, ArrowDown, CheckCircle, Loader2, ChevronDown, ImageIcon, FileText } from 'lucide-react'
 import { PDFDocument } from 'pdf-lib'
 import Header from '@/components/Header'
